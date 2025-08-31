@@ -7,4 +7,4 @@ The methods I provided are workarounds to get to the classic mixer quickly, but 
 
 
 
-right-click on an empty space on their Desktop.
+right-click on an empty space on the Desktop.
